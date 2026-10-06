@@ -1,0 +1,6 @@
+﻿"KPIName,EngagementType,TargetValue,WarningThreshold,CriticalThreshold,IsHigherBetter,DisplayOrder"
+"Milestone Adherence %,PMO,90,75,60,Yes,1"
+"Approval Cycle Time (Days),PMO,3,5,7,No,2"
+"Deliverable Completion %,PMO,95,85,70,Yes,3"
+"Critical Path Delay (Days),PMO,0,3,7,No,4"
+"Defect Rate %,QA,2,5,10,No,5"

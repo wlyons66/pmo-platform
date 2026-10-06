@@ -1,0 +1,3 @@
+﻿"Profile,FailedWeight,OutOfDateWeight,RetryWeight,StalenessPerDay,PausedAdjustment,PinnedAdjustment"
+"Healthcare,75,40,5,3,-10,-5"
+"Standard,50,25,5,1,-20,-10"

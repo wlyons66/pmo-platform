@@ -1,0 +1,4 @@
+﻿"ClientName,Region,UpgradeMode,SeverityProfile,ClientCriticality,AlertsEnabled"
+"Legent Health,US,Auto,Healthcare,High,Yes"
+"HCZ,US,Auto,Standard,Medium,Yes"
+"Internal Test,US,Auto,Standard,Low,No"

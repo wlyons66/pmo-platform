@@ -1,0 +1,7 @@
+﻿"DeliverableName,Phase,OwnerRole,Required,TemplateRequired"
+"Project Charter,Initiation,Project Manager,Yes,Yes"
+"Project Plan,Planning,PM,Yes,Yes"
+"Solution Design Document,Design,Architect,Yes,Yes"
+"Test Plan,Testing,QA Lead,Yes,Yes"
+"Go-Live Checklist,Deployment,Delivery Lead,Yes,Yes"
+"Lessons Learned,Closure,PM,No,No"
